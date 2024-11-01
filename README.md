@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 # E-PLANT-SHOPPING
 "Paradise Nursery" is a React shopping app for house plants, allowing users to browse plant categories, view details, and manage a cart. With features to add plants, adjust quantities, and see live cart updates, the app offers a smooth shopping experience. Built with Redux, it ensures efficient state management and interactivity.
 =======
 # Getting Started with Create React App
+
+Final site (https://planteforlife.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
